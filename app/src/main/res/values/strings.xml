@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <string name="edit_notes">Edit notes</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
